@@ -1,0 +1,54 @@
+﻿/*Color Palette (Dark to Bright)
+    #280004
+    #340005
+    #440209
+    #6f000b
+    #a30010
+*/
+.bg-red-700{
+    background-color:#280004;
+}
+.bg-red-600{
+    background-color:#a30010;
+    border: 2px solid #6f000b;
+}
+.text-white{
+    color:ghostwhite;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align:center;
+    /*border:2px solid #440209;*/
+    background-color:#6f000b;
+    font-family:Arial, Helvetica, sans-serif;
+}
+h2 {
+    text-align: left;
+    border: 2px solid #6f000b;
+    background-color:#a30010;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3{
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+p{
+    color:ghostwhite;
+    font-size:20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+hr{
+    color: #280004;
+}
+#container{
+    display:flex;
+}
+a{
+    color:ghostwhite;
+}
+a:hover{
+    background-color:#A30010;
+}
+.portrait {
+    height:378px; width:409px; margin:10px;
+}
