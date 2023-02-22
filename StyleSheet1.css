@@ -52,3 +52,9 @@ a:hover{
 .portrait {
     height:378px; width:409px; margin:10px;
 }
+img.iconImage{
+     width:88px; margin:5px;
+}
+img.iconImageOther{
+     width:90px; margin:5px;
+}
